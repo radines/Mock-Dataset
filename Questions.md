@@ -1,19 +1,21 @@
 ## Step 6 Questions
 
-1. What Licensing Agreement did you choose and why?
+*1. What Licensing Agreement did you choose and why?*
 
- * I chose a public domain licensing agreement because the dataset that I have posted does not contain any copyrighted material and is therefore free of restrictions and is available for public use. Given that the dataset provided is randomly generated on a data creation simulator, the information included should be available for public access.
+I chose a public domain licensing agreement because the dataset that I have posted does not contain any copyrighted material and is therefore free of restrictions and is available for public use. Given that the dataset provided is randomly generated on a data creation simulator, the information included should be available for public access.
  
-2. What data archiving options are recommended by the Montana State University Library?
+*2. What data archiving options are recommended by the Montana State University Library?*
 
-* The MSU library recomments using trusted and popular data repositories for publishing data. The library website provides a list of recommended data repositories including
+The MSU library recomments using trusted and popular data repositories for publishing data. The library website provides a list of recommended data repositories including
  
-3. How would using GitHub help make your data/code align with FAIR Protocols?
+*3. How would using GitHub help make your data/code align with FAIR Protocols?*
 
-4. What are the advantages of making your data/code more widely accessible?
+*4. What are the advantages of making your data/code more widely accessible?*
 
-5. What are the disadvantages of making your data/code more widely accessible?
+*5. What are the disadvantages of making your data/code more widely accessible?*
 
-6. What data/code from your grad project would you envision publishing on GitHub?
+*6. What data/code from your grad project would you envision publishing on GitHub?*
 
-7. What data/code would you not publish? Why?
+*7. What data/code would you not publish? Why?*
+
+Some of the data from my grad project would not be published yet on GitHub because the data is owned by the Forest Service, therefore it is not in my jurisdiction to decide to publish the data and make it publicly available. 
